@@ -562,28 +562,12 @@ video {
   position: relative;
 }
 
-.bottom-\[-65\%\] {
-  bottom: -65%;
+.bottom-\[-80\%\] {
+  bottom: -80%;
 }
 
 .left-\[50\%\] {
   left: 50%;
-}
-
-.bottom-\[-70\%\] {
-  bottom: -70%;
-}
-
-.bottom-\[-78\%\] {
-  bottom: -78%;
-}
-
-.bottom-\[-75\%\] {
-  bottom: -75%;
-}
-
-.bottom-\[-80\%\] {
-  bottom: -80%;
 }
 
 .m-2 {
@@ -656,12 +640,12 @@ video {
   gap: 0.5rem;
 }
 
-.gap-4 {
-  gap: 1rem;
-}
-
 .gap-3 {
   gap: 0.75rem;
+}
+
+.gap-4 {
+  gap: 1rem;
 }
 
 .overflow-hidden {
@@ -695,8 +679,8 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
 
-.bg-\[url\(\/images\/banner\.jpg\)\] {
-  background-image: url(/images/banner.jpg);
+.bg-\[url\(https\:\/\/github\.com\/ch933114\/my-works-static\/blob\/main\/images\/banner\.jpg\?raw\=true\)\] {
+  background-image: url(https://github.com/ch933114/my-works-static/blob/main/images/banner.jpg?raw=true);
 }
 
 .object-cover {
@@ -721,16 +705,6 @@ video {
 .py-6 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-}
-
-.py-\[200px\] {
-  padding-top: 200px;
-  padding-bottom: 200px;
-}
-
-.py-\[250px\] {
-  padding-top: 250px;
-  padding-bottom: 250px;
 }
 
 .py-\[300px\] {
@@ -759,14 +733,14 @@ video {
   color: rgb(229 144 44 / var(--tw-text-opacity, 1));
 }
 
-.text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
-}
-
 .text-accent2 {
   --tw-text-opacity: 1;
   color: rgb(243 213 141 / var(--tw-text-opacity, 1));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 
 .outline {
